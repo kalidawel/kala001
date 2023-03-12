@@ -8,8 +8,8 @@ public class example101 {
 	System.out.println("print onething");
 	System.out.println("print onething");
 	System.out.println("print onething");
-	System.out.println("print onething");
-	System.out.println("print onething");
+	
+	
 
 	}
 
